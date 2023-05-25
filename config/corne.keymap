@@ -48,9 +48,9 @@
 
     Tri_layer {
       bindings = <
-        &trans           &bt BT_PRV   &bt BT_NXT   &bt BT_CLR       &none              &none                &kp none              &none             &none             &none        &none         &trans 
-        &trans           &bt BT_SEL 1 &bt BT_SEL 2 &none            &none              &none                &kp none              &none             &none             &none        &none         &none 
-        &trans           &bt BT_SEL 3 &bt BT_SEL 4 &none            &none              &none                &kp none              &none             &none             &none        &none         &trans 
+        &trans           &bt BT_PRV   &bt BT_NXT   &bt BT_CLR       &none              &none                &none                 &none             &none             &none        &none         &trans 
+        &trans           &bt BT_SEL 1 &bt BT_SEL 2 &none            &none              &none                &none                 &none             &none             &none        &none         &none 
+        &trans           &bt BT_SEL 3 &bt BT_SEL 4 &none            &none              &none                &none                 &none             &none             &none        &none         &trans 
                                                    &trans           &trans             &trans               &trans                &trans            &trans 
       >;
     };
