@@ -8,6 +8,14 @@
 
 / {
 
+  conditional_layers {
+      compatible = "zmk,conditional-layers";
+      tri_layer {
+          if-layers = <1 2>;
+          then-layer = <3>;
+      };
+  };
+
   keymap {
     compatible = "zmk,keymap";
 
@@ -31,9 +39,18 @@
 
     Raise_layer {
       bindings = <
-        &trans           &bt BT_PRV   &bt BT_NXT   &bt BT_CLR       &none              &kp K_SLEEP          &kp HOME              &kp PG_DN         &kp PG_UP         &kp END      &none         &trans 
-        &trans           &bt BT_SEL 1 &bt BT_SEL 2 &none            &none              &kp K_LOCK           &kp LEFT              &kp DOWN          &kp UP            &kp RIGHT    &kp ESCAPE    &none 
-        &trans           &bt BT_SEL 3 &bt BT_SEL 4 &none            &none              &none                &kp C_MENU            &kp C_VOLUME_DOWN &kp C_VOLUME_UP   &none        &none         &trans 
+        &trans           &none        &none        &none            &none              &none                &kp HOME              &kp PG_DN         &kp PG_UP         &kp END      &none         &trans 
+        &trans           &none        &none        &none            &none              &none                &kp LEFT              &kp DOWN          &kp UP            &kp RIGHT    &kp ESCAPE    &none 
+        &trans           &none        &none        &none            &none              &none                &kp C_MENU            &kp C_VOLUME_DOWN &kp C_VOLUME_UP   &none        &none         &trans 
+                                                   &trans           &trans             &trans               &trans                &trans            &trans 
+      >;
+    };
+
+    Tri_layer {
+      bindings = <
+        &trans           &bt BT_PRV   &bt BT_NXT   &bt BT_CLR       &none              &none                &kp none              &none             &none             &none        &none         &trans 
+        &trans           &bt BT_SEL 1 &bt BT_SEL 2 &none            &none              &none                &kp none              &none             &none             &none        &none         &none 
+        &trans           &bt BT_SEL 3 &bt BT_SEL 4 &none            &none              &none                &kp none              &none             &none             &none        &none         &trans 
                                                    &trans           &trans             &trans               &trans                &trans            &trans 
       >;
     };
