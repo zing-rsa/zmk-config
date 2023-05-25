@@ -1,6 +1,3 @@
-- move bluetooth buttons to tri layer
 - change layer display to name instead of number
 - add leds
-- add wpm count 
-- fix vol buttons 
 - investigate sleep/power buttons
