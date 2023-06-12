@@ -4,7 +4,7 @@ ZMK config and relevant files for my custom built split mechanical keyboard.
 
 ![Split keyboard](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rJ6Sjp6qW7xbiAurwrsaD5yY4e21c9H0rIznXP8QhAVTqRbdGJAOzUO6liVFnT3sK3fCAXkS1OjmltfOwiL9Wt7Q6_zA=w1920-h1080)
 
-My board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 3 layers to access all the keys of a normal board, as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you type faster, more comfortably, and can make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. All these seemingly insignificant tweaks add up to a decent improvement in ergonomics over the course of years spent typing.
+My board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 4 layers to access all the keys of a normal board, as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you type faster, more comfortably, and can make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. All these seemingly insignificant tweaks add up to a decent improvement in ergonomics over the course of years spent typing.
 
 #### Components
 
