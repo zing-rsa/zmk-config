@@ -4,7 +4,7 @@ ZMK config and relevant files for my custom built split mechanical keyboard.
 
 ![Corne Split keyboard](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rJ6Sjp6qW7xbiAurwrsaD5yY4e21c9H0rIznXP8QhAVTqRbdGJAOzUO6liVFnT3sK3fCAXkS1OjmltfOwiL9Wt7Q6_zA=w1920-h1080)
 
-My board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 4 software layers to access all the keys of a normal board as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you can type faster and more comfortably, along with the massive benefit of being able to make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. My(and many others') feeling is that all these seemingly insignificant tweaks add up to a decent improvement in efficiency and comfort over years spent typing.
+My board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. Mine has 4 software layers to access all the keys of a normal board as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you can type faster and more comfortably, along with the massive benefit of being able to make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. My(and some others') feeling is that all these seemingly insignificant tweaks add up to a decent improvement in efficiency and comfort over years spent typing.
 
 #### Components
 
@@ -16,7 +16,7 @@ My board is based on a popular split keyboard PCB shape called the Corne ([githu
 - `Headers`: Millmax "315" low profile sockets
 - `Diodes`: 1N4148W  SMD Diode SOD-123
 - `Switches`: [Akko Lavender Purple](https://en.akkogear.com/product/akko-cs-lavender-purple-switch-45pcs/) | Tactile
-- `Keycaps`: [Akko Olivia]()
+- `Keycaps`: Akko Olivia
 - `Case`:  [Custom design](https://www.printables.com/model/347524-corne-keyboard-case-5-and-6-columns) by [VOID](https://www.printables.com/@void)
     - Tented at ~12 degrees with M5 Hex screws
     - Printed in translucent resin
@@ -41,7 +41,7 @@ MCU's flashed with official [ZMK firmware](https://github.com/zmkfirmware/zmk)
 
 #### 1. Parts arrive
 
-Between manufacturing and shipping it took around 3 weeks to source all the parts needed for the build. The cases and PCB's were printed in China and the MCU's I ordered from the Netherlands. Finally, finding all the small parts from various local shops took quite a bit of time, but thanks to some local keyboard enthusiasts I was able to find everything I needed - or have it made(thanks [worthmfg](www.worthmfg.co.za)). 
+Between manufacturing and shipping it took around 3 weeks to source all the parts needed for the build. The cases and PCB's were printed in China and the MCU's I ordered from the Netherlands. Finally, finding all the small components from various local shops took quite a bit of time, but luckily the local enthusiast community were able to help me find everything I needed - or have it made(thanks [worthmfg](www.worthmfg.co.za)). 
 
  . | .
 :----------------:|:-----------------:
@@ -74,10 +74,10 @@ Soldering MCU's and batteries
 
 ### Final product
 
-I'm so stoked with how this board turned out, from the aesthetics to the functionality it's exactly what I was aiming for. I'm still tweaking the keymap occasionally as I find more optimal locations for certain keys, but so far the ease of access to all the keys is awesome and I find myself using the mouse less and less. I've never been a fan of layers but I think the tradeoff for access to everything is worth it - basing every movement off the home row allows for a much more optimized workflow once you commit the keymap to memory. 
+I'm so stoked with how this board turned out, from the aesthetics to the functionality it's exactly what I was aiming for. I'm still tweaking the keymap occasionally as I find more optimal locations for certain keys, but so far the ease of access to all the keys is awesome and I find myself using the mouse less and less. I have never been a big fan of layers, but at the moment I consider the tradeoff well worth it since my experience so far is that having every movement based off the same position makes for much more fluid use of the keyboard.
 
 ![Build Log 8](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qjeiGPDkCluah6yp83OlA_TczThZwAYL1p1XmSw9QuxJnkbkebsqFCnSGEM86NBBh1Ws9nzr9qyzVc8QJslRCO93Q13A=w1778-h1080)
 
 #### Future plans
 
-- I have a set of sk6812mini-e RGB LEDs which I would like to add as back-lighting underneath each key. This seems to be supported by ZMK but not out of the box, so some tweaking of the code and manual bypassing on the PCB might be required to achieve what I want. 
+- I have a set of sk6812mini-e RGB LEDs which I would like to add as back-lighting underneath each key. This seems to be supported by ZMK but not out of the box(in the configuration I would like), so some tweaking of the code and physical bypassing on the PCB might be required to achieve what I want. 
