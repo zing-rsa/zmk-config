@@ -4,7 +4,7 @@ ZMK config and relevant files for my custom built split mechanical keyboard.
 
 ![Split keyboard](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rJ6Sjp6qW7xbiAurwrsaD5yY4e21c9H0rIznXP8QhAVTqRbdGJAOzUO6liVFnT3sK3fCAXkS1OjmltfOwiL9Wt7Q6_zA=w1920-h1080)
 
-My board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 4 layers to access all the keys of a normal board, as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you type faster, more comfortably, and can make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. All these seemingly insignificant tweaks add up to a decent improvement in ergonomics over the course of years spent typing.
+My board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 4 software layers to access all the keys of a normal board, as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you type faster, more comfortably, and can make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. All these seemingly insignificant tweaks add up to a decent improvement in efficiency and comfort over years of typing.
 
 #### Components
 
@@ -66,18 +66,25 @@ MCU's and batteries
 - Add + adjust tenting screws and feet
 - Add plates + mount switches to plates
 - Mounting the plates to their case
+<div style='display: flex; '>
 
-![Build Log 4](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rO-VxNdPCvVQzVtxrkiU0t3stmMLltyQFZPqLC4REFZC6woDl2BuPxDxyyfrojiPbO7caPUPPuW67aeVZpuupTwATwLg=w1778-h1080)
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rhP1iKtqZ5-TI5bad522bccgXb8WrhHZS-eMHDnBzHUZp5RR2bCgJoDYXKp2eqIX3ztF3VxfqC-a_HPHTq-XStGIgliw=w1920-h1080" 
+style='width: 500; height: 1000'/>
 
-![Build Log 5](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rdEThmderMkaMFuzsVCckaHYe4M05d_TIGgkoi8mUjTbQG_6AVQ3InA64rxBNn3iyzi-2xoCHjwSKBO8UGamZz75n3og=w1778-h1080)
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rLtsIyShmGPyAPyPLgvRgxIBM8mPzJguB5z2I8qfaDenb7R2Wpk2A0FG1ev1r-IzYETabFBKvfSAskcGsZmUoxkQ1Y=w1920-h1080"
+style='width: 500; height: 1000'/>
 
-![Build Log 6](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pD3Dcssyb50xb1jD1rxRjAUKnsO84L0dBlTM-nvtVOgk-ibyUi9J5Y3K8WIijOEz3_kV9T1TgmIuam2V1gH3E243iksg=w1920-h1080) 
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pD3Dcssyb50xb1jD1rxRjAUKnsO84L0dBlTM-nvtVOgk-ibyUi9J5Y3K8WIijOEz3_kV9T1TgmIuam2V1gH3E243iksg=w1920-h1080"
+style='width: 500; height: 1000'/>
 
-![Build Log 7](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rAAewdz15SI7biANgXjukMJ20CSnj2ziRTcNpjCKjasOcQrAP4M-fmvUlcTxhaH_Q_QzVYu4EPcZx62R3MbNK0UAYAoA=w1920-h1080) 
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rAAewdz15SI7biANgXjukMJ20CSnj2ziRTcNpjCKjasOcQrAP4M-fmvUlcTxhaH_Q_QzVYu4EPcZx62R3MbNK0UAYAoA=w1920-h1080"
+style='width: 500; height: 1000'>
+</div>
+
 
 ### Final product
 
-I'm very happy with how this board turned out, from the aesthetics to the functionality it really is all that I was aiming for. I'm still tweaking the keymap occasionally as I find more optimal locations for certain keys, but so far the ease of access to all the keys is very noticeable and I find myself using the mouse less and less. I was never a fan of layers but I think the tradeoff for access to everything is well worth it, as basing every movement off the home row allows for a much more optimized workflow once you commit the keymap to memory. 
+I'm so stoked with how this board turned out, from the aesthetics to the functionality it's exactly what I was aiming for. I'm still tweaking the keymap occasionally as I find more optimal locations for certain keys, but so far the ease of access to all the keys is awesome and I find myself using the mouse less and less. I was never a fan of layers but I think the tradeoff for access to everything is worth it - basing every movement off the home row allows for a much more optimized workflow once you commit the keymap to memory. 
 
 
 ![Build Log 8](
