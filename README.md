@@ -4,7 +4,7 @@ ZMK config and relevant files for my custom built split mechanical keyboard.
 
 ![Corne Split keyboard](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rJ6Sjp6qW7xbiAurwrsaD5yY4e21c9H0rIznXP8QhAVTqRbdGJAOzUO6liVFnT3sK3fCAXkS1OjmltfOwiL9Wt7Q6_zA=w1920-h1080)
 
-My board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 4 software layers to access all the keys of a normal board, as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you type faster, more comfortably, and can make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. All these seemingly insignificant tweaks add up to a decent improvement in efficiency and comfort over years of typing.
+My board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 4 software layers to access all the keys of a normal board as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you can type faster and more comfortably, along with the massive benefit of being able to make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. My(and many others') feeling is that all these seemingly insignificant tweaks add up to a decent improvement in efficiency and comfort over years spent typing.
 
 #### Components
 
@@ -37,24 +37,26 @@ MCU's flashed with official [ZMK firmware](https://github.com/zmkfirmware/zmk)
 ![Image 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qjeiGPDkCluah6yp83OlA_TczThZwAYL1p1XmSw9QuxJnkbkebsqFCnSGEM86NBBh1Ws9nzr9qyzVc8QJslRCO93Q13A=w1920-h1080)  |  ![Image 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oV9iV--XWm0QQlCSL3x5Gva7dcTHwanTqM3BEAvuKsZbYUGgfA4QJMrRbffqNwMA70Gm36JK2KZveN9pZj9VNfrLEHtw=w1920-h1080)
 ![Image 3](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qp_5r2h534zlPBszj-M00HTSiDkwjddT2-P2eyZmciEpXhvefO_ys5Njg-EUCEYzHTCNqeTKuEi5dtYMzTsgHSwxjWMQ=w1920-h1080)  |  ![Image 4](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qgD1Rm5nGw8X4IyvKGOOz59S_RCC1_ChaS3FQ9HM99WLWSHPGqYMY42PgcMBLziuW9byOVT_NzjW2MCUN_jkc8hg5wxA=w1920-h1080) 
 
-## Build log
+## Build
 
 #### 1. Parts arrive
-- Cases and PCBs arrived from manufacturing in china via [elecrow.com](https://www.elecrow.com/)
-- Switches, keycaps and socket arrived from [ctrlshiftesc.co.za](https://www.ctrlshiftesc.co.za/)
 
-![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qxHsikeFV0H6P-QWwlv7keqyu7Y-QRJ9FiEJc_sx5-zorIKwEHAOX-IN6ZOHKOMgn332icO6NpgluEeE2-w0xKOE9X_Q=w1920-h1080)
+Between manufacturing and shipping it took around 3 weeks to source all the parts needed for the build. The cases and PCB's were printed in China and the MCU's I ordered from the Netherlands. Finally, finding all the small parts from various local shops took quite a bit of time, but thanks to some local keyboard enthusiasts I was able to find everything I needed - or have it made(thanks [worthmfg](www.worthmfg.co.za)). 
+
+ . | .
+:----------------:|:-----------------:
+![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qxHsikeFV0H6P-QWwlv7keqyu7Y-QRJ9FiEJc_sx5-zorIKwEHAOX-IN6ZOHKOMgn332icO6NpgluEeE2-w0xKOE9X_Q=w1920-h1080) | ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81o6kMbZUASO-XklMvDg0b6cMNlzO9Q2bt508w6_zC7MfDjARVVnt351xEh9197gOSqrUGAgv8vxbh5gSMTJDe7mVgXQNQ=w1920-h1080)
+![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rWumcKTaNsF3h9pbBHZRJyFqwGUS3zrdy0E3zeL8HskGIm77OIlotdK_XhniqsxyBTCuPIFdHe-6ZhvTDX6x9OhJnftg=w1920-h1080) | ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pRDMYW_II6_QKo9oD4ivo8NluhaJITRO00i6qVPpz_Tlb7vmw4aVRqolP7aQrqL2pdmdYkyn1GhdMrfOKio77xSppCkA=w1920-h1080)
+![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rR4Ht9f6JapwbgiPsrjJxLiI0zTDJAmulLpuqcBW3-8kWt8XNz7nciL-87CH35nCsOQxTyXvy-DcFKANgCcqHHxPihGw=w1920-h1080) | ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81p_WlrkzRABQ-slPq55yAi-KX9P64JttWih_vfmCJnfF0vHDDS9nWAc6d9x3DUsUPuybC5irtS8cbJAYGz9Rg9r0jW42w=w1920-h1080)
 
 #### 2. Soldering
 
-- Completing all the soldering took around 3 evenings. This was my first time soldering this many parts and it was a good learning experience. I was using 4mm flux solder, with some extra flux on the side. My soldering iron was the cheapest one my local hardware store sold me a few years back, but it worked alright. 
+- Completing all the soldering took around 3 evenings. This was my first time soldering this many parts and it was pretty fun. I was using 4mm flux solder, with some extra flux on the side. My soldering iron was the cheapest one my local hardware store sold me a few years back, but it worked alright. Unfortunately I did ruin one of my PCB's at this point, trying to de-solder an LED. Luckily had plenty extra. 
 
-Diodes and hotswap sockets
-
+Soldering Diodes and hotswap sockets
 ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oWq-saeuJtmmIhT9WgzmZuVNQ_gd_6GYk7lKSom7h5frMRvLzcAXKwkW-U-PbCGhm-MKKYOe2cS1CukMU8_VJfg9rLuQ=w1920-h1080)
 
-MCU's and batteries 
-
+Soldering MCU's and batteries 
 ![Build Log 3](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81ogXiz8c1hEmsy8gXZaVsoD-m4DKj_HHTStVVNY8LR-irXhEt8NlryBmrFEfAhZTyN-raYi2MtQ2BGj8UBjWj1hxYFZvQ=w1920-h1080)
 
 #### 3. Wrapping up
@@ -72,8 +74,7 @@ MCU's and batteries
 
 ### Final product
 
-I'm so stoked with how this board turned out, from the aesthetics to the functionality it's exactly what I was aiming for. I'm still tweaking the keymap occasionally as I find more optimal locations for certain keys, but so far the ease of access to all the keys is awesome and I find myself using the mouse less and less. I was never a fan of layers but I think the tradeoff for access to everything is worth it - basing every movement off the home row allows for a much more optimized workflow once you commit the keymap to memory. 
-
+I'm so stoked with how this board turned out, from the aesthetics to the functionality it's exactly what I was aiming for. I'm still tweaking the keymap occasionally as I find more optimal locations for certain keys, but so far the ease of access to all the keys is awesome and I find myself using the mouse less and less. I've never been a fan of layers but I think the tradeoff for access to everything is worth it - basing every movement off the home row allows for a much more optimized workflow once you commit the keymap to memory. 
 
 ![Build Log 8](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qjeiGPDkCluah6yp83OlA_TczThZwAYL1p1XmSw9QuxJnkbkebsqFCnSGEM86NBBh1Ws9nzr9qyzVc8QJslRCO93Q13A=w1778-h1080)
 
