@@ -10,6 +10,8 @@ This board is based on a popular split keyboard PCB shape called the Corne ([git
 
 - `MCU`: [nice!nano v2](https://nicekeyboards.com/nice-nano/) (wireless)
 - `PCB`: Standard [v3.0.1 Cherry-Corne](https://github.com/foostan/crkbd/tree/main/corne-cherry) designs
+- `Case`:  [Custom design](https://www.printables.com/model/347524-corne-keyboard-case-5-and-6-columns) by [VOID](https://www.printables.com/@void) 3D printed in translucent resin
+    - Tented at ~12 degrees with M5 Hex screws
 - `OLED`: 0.91" 128x32 I2C white OLEDS
 - `Batteries`: 1000mah Lipo
 - `Sockets`: Gateron hotswap sockets
@@ -17,9 +19,6 @@ This board is based on a popular split keyboard PCB shape called the Corne ([git
 - `Diodes`: 1N4148W  SMD Diode SOD-123
 - `Switches`: [Akko Lavender Purple](https://en.akkogear.com/product/akko-cs-lavender-purple-switch-45pcs/) | Tactile
 - `Keycaps`: Akko Olivia
-- `Case`:  [Custom design](https://www.printables.com/model/347524-corne-keyboard-case-5-and-6-columns) by [VOID](https://www.printables.com/@void)
-    - Tented at ~12 degrees with M5 Hex screws
-    - Printed in translucent resin
 - `Plates`: 1.5mm Alu plates cut by [worthmfg.co.za](https://worthmfg.co.za/)
 
 #### Software
