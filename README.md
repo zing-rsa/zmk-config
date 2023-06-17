@@ -53,10 +53,10 @@ Between manufacturing and shipping it took around 3 weeks to source all the part
 
 - Completing all the soldering took around 3 evenings. This was my first time soldering this many parts and it was pretty fun. I was using 4mm flux solder, with some extra flux on the side. My soldering iron was the cheapest one my local hardware store sold me a few years back, but it worked alright. Unfortunately I did ruin one of my PCB's at this point, trying to de-solder an LED. Luckily had plenty extra. 
 
-Soldering Diodes and hotswap sockets
+Diodes and hotswap sockets soldered
 ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oWq-saeuJtmmIhT9WgzmZuVNQ_gd_6GYk7lKSom7h5frMRvLzcAXKwkW-U-PbCGhm-MKKYOe2cS1CukMU8_VJfg9rLuQ=w1920-h1080)
 
-Soldering MCU's and batteries 
+Adding MCU's and batteries
 ![Build Log 3](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81ogXiz8c1hEmsy8gXZaVsoD-m4DKj_HHTStVVNY8LR-irXhEt8NlryBmrFEfAhZTyN-raYi2MtQ2BGj8UBjWj1hxYFZvQ=w1920-h1080)
 
 #### 3. Wrapping up
