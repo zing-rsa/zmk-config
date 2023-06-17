@@ -9,7 +9,7 @@ My board is based on a popular split keyboard PCB shape called the Corne ([githu
 #### Components
 
 - `MCU`: [nice!nano v2](https://nicekeyboards.com/nice-nano/) (wireless)
-- `PCB`: Standard [v3.0.1 Cherry-Corne](https://github.com/foostan/crkbd/tree/main/corne-cherry/doc/v3) designs
+- `PCB`: Standard [v3.0.1 Cherry-Corne](https://github.com/foostan/crkbd/tree/main/corne-cherry) designs
 - `OLED`: 0.91" 128x32 I2C white OLEDS
 - `Batteries`: 1000mah Lipo
 - `Sockets`: Gateron hotswap sockets
