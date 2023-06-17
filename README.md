@@ -39,7 +39,7 @@ MCU's flashed with official [ZMK firmware](https://github.com/zmkfirmware/zmk)
 
 ## Build
 
-#### 1. Parts arrive
+#### Parts arrive
 
 Between manufacturing and shipping it took around 3 weeks to source all the parts needed for the build. The cases and PCB's were printed in China and the MCU's I ordered from the Netherlands. Finally, finding all the small components from various local shops took quite a bit of time, but luckily the local enthusiast community were able to help me find everything I needed - or have it made(thanks [worthmfg](www.worthmfg.co.za)). 
 
@@ -49,7 +49,7 @@ Between manufacturing and shipping it took around 3 weeks to source all the part
 ![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rWumcKTaNsF3h9pbBHZRJyFqwGUS3zrdy0E3zeL8HskGIm77OIlotdK_XhniqsxyBTCuPIFdHe-6ZhvTDX6x9OhJnftg=w1920-h1080) | ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pRDMYW_II6_QKo9oD4ivo8NluhaJITRO00i6qVPpz_Tlb7vmw4aVRqolP7aQrqL2pdmdYkyn1GhdMrfOKio77xSppCkA=w1920-h1080)
 ![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rR4Ht9f6JapwbgiPsrjJxLiI0zTDJAmulLpuqcBW3-8kWt8XNz7nciL-87CH35nCsOQxTyXvy-DcFKANgCcqHHxPihGw=w1920-h1080) | ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81p_WlrkzRABQ-slPq55yAi-KX9P64JttWih_vfmCJnfF0vHDDS9nWAc6d9x3DUsUPuybC5irtS8cbJAYGz9Rg9r0jW42w=w1920-h1080)
 
-#### 2. Soldering
+#### Soldering
 
 - Completing all the soldering took around 3 evenings. This was my first time soldering this many parts and it was pretty fun. I was using 4mm flux solder, with some extra flux on the side. My soldering iron was the cheapest one my local hardware store sold me a few years back, but it worked alright. Unfortunately I did ruin one of my PCB's at this point, trying to de-solder an LED. Luckily had plenty extra. 
 
@@ -59,7 +59,7 @@ Diodes and hotswap sockets soldered
 Adding MCU's and batteries
 ![Build Log 3](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81ogXiz8c1hEmsy8gXZaVsoD-m4DKj_HHTStVVNY8LR-irXhEt8NlryBmrFEfAhZTyN-raYi2MtQ2BGj8UBjWj1hxYFZvQ=w1920-h1080)
 
-#### 3. Wrapping up
+#### Wrapping up
 
 - Adding foam to case mounts
 - Add + adjust tenting screws and feet
