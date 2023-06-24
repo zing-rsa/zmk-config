@@ -9,3 +9,6 @@
     - move function keys to tri or raise layer? 
 
 - update raise layer to include word jump, multi word jump
+- bake in current autohotkey bindings to native macros
+    - 15 * arrow up and 15 arrow down
+- move the BT_CLR key further away from the rest of the keys
