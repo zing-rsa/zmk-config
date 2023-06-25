@@ -20,7 +20,7 @@
       down_15: down_15 {
           label = "down_15";
           compatible = "zmk,behavior-macro";
-          tap-ms = <1>;
+          tap-ms = <0>;
           #binding-cells = <0>;
           bindings
               = <&macro_tap &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN>;
@@ -29,7 +29,7 @@
       up_15: up_15 {
           label = "up_15";
           compatible = "zmk,behavior-macro";
-          tap-ms = <1>;
+          tap-ms = <0>;
           #binding-cells = <0>;
           bindings
               = <&macro_tap &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP>;
