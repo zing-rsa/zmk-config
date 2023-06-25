@@ -16,6 +16,25 @@
       };
   };
 
+  macros {
+      down_15: down_15 {
+          label = "down_15";
+          compatible = "zmk,behavior-macro";
+          #binding-cells = <0>;
+          bindings
+              = <&macro_tap &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN &kp DOWN>;
+      };
+
+      up_15: up_15 {
+          label = "down_15";
+          compatible = "zmk,behavior-macro";
+          #binding-cells = <0>;
+          bindings
+              = <&macro_tap &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP &kp UP>;
+      };
+  };
+
+
   keymap {
     compatible = "zmk,keymap";
 
@@ -39,18 +58,18 @@
 
     Raise_layer {
       bindings = <
-        &trans           &none        &none        &none            &none              &none                &kp HOME              &kp PG_DN         &kp PG_UP         &kp END      &none         &trans 
+        &trans           &none        &none        &none            &up_15             &none                &kp HOME              &kp PG_DN         &kp PG_UP         &kp END      &none         &trans 
         &trans           &none        &none        &none            &none              &none                &kp LEFT              &kp DOWN          &kp UP            &kp RIGHT    &kp ESCAPE    &none  
-        &trans           &none        &none        &none            &none              &none                &kp K_CMENU           &kp C_VOLUME_DOWN &kp C_VOLUME_UP   &none        &none         &trans   
+        &trans           &none        &none        &none            &down_15           &none                &kp K_CMENU           &kp C_VOLUME_DOWN &kp C_VOLUME_UP   &none        &none         &trans   
                                                    &trans           &trans             &trans               &trans                &trans            &trans 
       >;
     };
 
     Tri_layer {
       bindings = <
-        &trans           &bt BT_PRV   &bt BT_NXT   &bt BT_CLR       &none              &none                &none                 &none             &none             &none        &none         &trans 
+        &trans           &bt BT_PRV   &bt BT_NXT   &none            &none              &none                &none                 &none             &none             &none        &none         &trans 
         &trans           &bt BT_SEL 1 &bt BT_SEL 2 &none            &none              &none                &none                 &none             &none             &none        &none         &none 
-        &trans           &bt BT_SEL 3 &bt BT_SEL 4 &none            &none              &none                &none                 &none             &none             &none        &none         &trans 
+        &trans           &bt BT_SEL 3 &bt BT_SEL 4 &none            &none              &bt BT_CLR           &none                 &none             &none             &none        &none         &trans 
                                                    &trans           &trans             &trans               &trans                &trans            &trans 
       >;
     };
