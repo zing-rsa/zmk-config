@@ -2,7 +2,7 @@
 
 ZMK config and relevant files for my custom built split mechanical keyboard.
 
-![Corne Split keyboard](https://drive.google.com/uc?export=download&id=1buwcjaTtP-bixvK8RokWmaSVNxP5ng07)
+![Corne Split keyboard](https://drive.google.com/uc?export=download&id=16hkuEKe135FdnXme21omoKHFhV0J62dL)
 
 This board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 4 software layers to access all the keys of a normal board as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you can type faster and more comfortably, along with the massive benefit of being able to make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. My(and some others) feeling is that all these seemingly insignificant tweaks add up to a decent improvement in efficiency and comfort over years spent typing.
 
@@ -26,7 +26,6 @@ This board is based on a popular split keyboard PCB shape called the Corne ([git
 MCU's flashed with official [ZMK firmware](https://github.com/zmkfirmware/zmk)
 
 #### Keymap:
-https://drive.google.com/file/d/1Rsu_RsL1Tqd7BehhD5s77JVPMbl-TvSc/view?usp=drive_link
 ![Keymap](https://drive.google.com/uc?export=download&id=164UkFmWi9hpZboM4zFPKddqZNDWt3v12)
 
 ## More Images
