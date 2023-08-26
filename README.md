@@ -2,7 +2,7 @@
 
 ZMK config and relevant files for my custom built split mechanical keyboard.
 
-![Corne Split keyboard](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rJ6Sjp6qW7xbiAurwrsaD5yY4e21c9H0rIznXP8QhAVTqRbdGJAOzUO6liVFnT3sK3fCAXkS1OjmltfOwiL9Wt7Q6_zA=w1920-h1080)
+![Corne Split keyboard](https://drive.google.com/uc?export=download&id=1buwcjaTtP-bixvK8RokWmaSVNxP5ng07)
 
 This board is based on a popular split keyboard PCB shape called the Corne ([github.com/crkbd](https://github.com/foostan/crkbd)), which features 3x6 column staggered keys and 3 thumb keys on each side. It has 4 software layers to access all the keys of a normal board as well as some custom macros. The main advantage of this design is that your fingers never need to leave the home row, meaning you can type faster and more comfortably, along with the massive benefit of being able to make more effective use of keyboard shortcuts. Being split, it also allows your arms to fall more naturally on the table - wherever you like. My(and some others) feeling is that all these seemingly insignificant tweaks add up to a decent improvement in efficiency and comfort over years spent typing.
 
@@ -26,15 +26,15 @@ This board is based on a popular split keyboard PCB shape called the Corne ([git
 MCU's flashed with official [ZMK firmware](https://github.com/zmkfirmware/zmk)
 
 #### Keymap:
-
-![Keymap](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81otbUCP6zZFBFsY6KPMLzsmqZekzGliN7N2hEaKL42Kfq8o5Ofxrff6bLZUSYR4k0T7Wgiv0DR1W1yhEacB7D1ZR9So=w1920-h1080)
+https://drive.google.com/file/d/1Rsu_RsL1Tqd7BehhD5s77JVPMbl-TvSc/view?usp=drive_link
+![Keymap](https://drive.google.com/uc?export=download&id=164UkFmWi9hpZboM4zFPKddqZNDWt3v12)
 
 ## More Images
 
  . | .
 :-------------------------:|:-------------------------:
-![Image 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qjeiGPDkCluah6yp83OlA_TczThZwAYL1p1XmSw9QuxJnkbkebsqFCnSGEM86NBBh1Ws9nzr9qyzVc8QJslRCO93Q13A=w1920-h1080)  |  ![Image 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oV9iV--XWm0QQlCSL3x5Gva7dcTHwanTqM3BEAvuKsZbYUGgfA4QJMrRbffqNwMA70Gm36JK2KZveN9pZj9VNfrLEHtw=w1920-h1080)
-![Image 3](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qp_5r2h534zlPBszj-M00HTSiDkwjddT2-P2eyZmciEpXhvefO_ys5Njg-EUCEYzHTCNqeTKuEi5dtYMzTsgHSwxjWMQ=w1920-h1080)  |  ![Image 4](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qgD1Rm5nGw8X4IyvKGOOz59S_RCC1_ChaS3FQ9HM99WLWSHPGqYMY42PgcMBLziuW9byOVT_NzjW2MCUN_jkc8hg5wxA=w1920-h1080) 
+![Image 1](https://drive.google.com/uc?export=download&id=1qwpn0RdphlMMUIOCoJ8nOM6VqmmMmIrO)  |  ![Image 2](https://drive.google.com/uc?export=download&id=1qGlHGfKatSPvJc_orPUM_LFvU4ntXT5s)
+![Image 3](https://drive.google.com/uc?export=download&id=1nZT9-5t7eJYpJ11t2qusjSYI8clt2RlG)  |  ![Image 4](https://drive.google.com/uc?export=download&id=1YZ6TvnSLvlK902VqRdnefE5CMl6f9Hp_) 
 
 ## Build
 
@@ -44,19 +44,19 @@ Between manufacturing and shipping it took around 3 weeks to source all the part
 
  . | .
 :----------------:|:-----------------:
-![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qxHsikeFV0H6P-QWwlv7keqyu7Y-QRJ9FiEJc_sx5-zorIKwEHAOX-IN6ZOHKOMgn332icO6NpgluEeE2-w0xKOE9X_Q=w1920-h1080) | ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81o6kMbZUASO-XklMvDg0b6cMNlzO9Q2bt508w6_zC7MfDjARVVnt351xEh9197gOSqrUGAgv8vxbh5gSMTJDe7mVgXQNQ=w1920-h1080)
-![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rWumcKTaNsF3h9pbBHZRJyFqwGUS3zrdy0E3zeL8HskGIm77OIlotdK_XhniqsxyBTCuPIFdHe-6ZhvTDX6x9OhJnftg=w1920-h1080) | ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pRDMYW_II6_QKo9oD4ivo8NluhaJITRO00i6qVPpz_Tlb7vmw4aVRqolP7aQrqL2pdmdYkyn1GhdMrfOKio77xSppCkA=w1920-h1080)
-![Build Log 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rR4Ht9f6JapwbgiPsrjJxLiI0zTDJAmulLpuqcBW3-8kWt8XNz7nciL-87CH35nCsOQxTyXvy-DcFKANgCcqHHxPihGw=w1920-h1080) | ![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81p_WlrkzRABQ-slPq55yAi-KX9P64JttWih_vfmCJnfF0vHDDS9nWAc6d9x3DUsUPuybC5irtS8cbJAYGz9Rg9r0jW42w=w1920-h1080)
+![Build Log 1](https://drive.google.com/uc?export=download&id=1yDVTsRvE4QmIhGS0eG--45uwRT8hJo-O) | ![Build Log 2](https://drive.google.com/uc?export=download&id=13WDyi8zqnrfgoeAzCZKk-FPsyE0lqeZH)
+![Build Log 1](https://drive.google.com/uc?export=download&id=13Tapr8rVS3OERfTyWiQ0tHp5pUXLHyqy) | ![Build Log 2](https://drive.google.com/uc?export=download&id=1N4mrTOmZIegTZ5_yXQ_TdnRSsFtVtjzg)
+![Build Log 1](https://drive.google.com/uc?export=download&id=13R39AF1N1cvL9eAJAaMKd5iWn1EeQUvw) | ![Build Log 2](https://drive.google.com/uc?export=download&id=1xUNa-5lFKIgjhbhrL5NOpY6N9lIBqiNk)
 
 #### Soldering
 
 - Completing all the soldering took around 3 evenings. This was my first time soldering this many parts and it was pretty fun. I was using 4mm flux solder, with some extra flux on the side. My soldering iron was the cheapest one my local hardware store sold me a few years back, but it worked alright. Unfortunately I did ruin one of my PCB's at this point, trying to de-solder an LED. Luckily had plenty extra. 
 
 Diodes and hotswap sockets soldered
-![Build Log 2](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oWq-saeuJtmmIhT9WgzmZuVNQ_gd_6GYk7lKSom7h5frMRvLzcAXKwkW-U-PbCGhm-MKKYOe2cS1CukMU8_VJfg9rLuQ=w1920-h1080)
+![Build Log 2](https://drive.google.com/uc?export=download&id=1wsp2xBia9ygC9KmZxI-X65Uhe2NC0dNM)
 
 Adding MCU's and batteries
-![Build Log 3](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81ogXiz8c1hEmsy8gXZaVsoD-m4DKj_HHTStVVNY8LR-irXhEt8NlryBmrFEfAhZTyN-raYi2MtQ2BGj8UBjWj1hxYFZvQ=w1920-h1080)
+![Build Log 3](https://drive.google.com/uc?export=download&id=11Zp0kAxjq2zd0RfPk1ECXs_uQBNjy0S0)
 
 #### Wrapping up
 
@@ -67,15 +67,15 @@ Adding MCU's and batteries
 
  . | .
 :-------------------------:|:-------------------------:
-![Build Log 4](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rhP1iKtqZ5-TI5bad522bccgXb8WrhHZS-eMHDnBzHUZp5RR2bCgJoDYXKp2eqIX3ztF3VxfqC-a_HPHTq-XStGIgliw=w1920-h1080)  |  ![Build Log 5](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rLtsIyShmGPyAPyPLgvRgxIBM8mPzJguB5z2I8qfaDenb7R2Wpk2A0FG1ev1r-IzYETabFBKvfSAskcGsZmUoxkQ1Y=w1920-h1080)
-![Build Log 6](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pD3Dcssyb50xb1jD1rxRjAUKnsO84L0dBlTM-nvtVOgk-ibyUi9J5Y3K8WIijOEz3_kV9T1TgmIuam2V1gH3E243iksg=w1920-h1080)  |  ![Build Log 7](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81rAAewdz15SI7biANgXjukMJ20CSnj2ziRTcNpjCKjasOcQrAP4M-fmvUlcTxhaH_Q_QzVYu4EPcZx62R3MbNK0UAYAoA=w1920-h1080) 
+![Build Log 4](https://drive.google.com/uc?export=download&id=1jElJuW8wl7XJIwvveLs36MVLmqTV-5mI)  |  ![Build Log 5](https://drive.google.com/uc?export=download&id=1ujdHZH2Q6stA8qjjg1B2nWOIZwZuM3SV)
+![Build Log 6](https://drive.google.com/uc?export=download&id=1Z3O_cVCxkxcOj75_ZTSPXjhk8OimZYBs)  |  ![Build Log 7](https://drive.google.com/uc?export=download&id=1GPgfGgMh2BxxhLiaC3PO6ATREQABMXND) 
 
 
 ### Final product
 
 I'm so stoked with how this board turned out, from the aesthetics to the functionality it's exactly what I was aiming for. I'm still tweaking the keymap occasionally as I find more optimal locations for certain keys, but so far the ease of access to all the keys is awesome and I find myself using the mouse less and less. I have never been a big fan of layers, but at the moment I consider the tradeoff well worth it - my experience so far is that having every movement based off the same position makes for much more fluid use of the keyboard.
 
-![Build Log 8](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qjeiGPDkCluah6yp83OlA_TczThZwAYL1p1XmSw9QuxJnkbkebsqFCnSGEM86NBBh1Ws9nzr9qyzVc8QJslRCO93Q13A=w1778-h1080)
+![Build Log 8](https://drive.google.com/uc?export=download&id=1qwpn0RdphlMMUIOCoJ8nOM6VqmmMmIrO)
 
 #### Future plans
 
